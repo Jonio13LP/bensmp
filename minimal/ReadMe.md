@@ -6,3 +6,8 @@ Starte dein Minecraft.
 
 
 Zusätzliche Empfehlung: Unbinde die Taste `U` von der Xaero World-Map.
+
+Mit `V` kannst du den Voice-Chat anpassen.
+Mit `U` kannst du deinen Status festlegen.
+Mit `M` kannst du die Karte öffnen.
+Mit einem `Rechtsklick` in der Map kannst du einen Chunk claimen.
