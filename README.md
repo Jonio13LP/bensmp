@@ -31,3 +31,5 @@ Note: Der Server ist ohne die Mods betretbar und SPielbar, es fehlen aber Key-Fe
 
 
 Version: 1.0.3 (Performance Fix)
+
+Changelog: [Klicke Hier](https://github.com/Jonio13LP/bensmp/blob/main/changelog.md)
