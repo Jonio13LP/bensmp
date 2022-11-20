@@ -11,3 +11,6 @@ Mit `V` kannst du den Voice-Chat anpassen.
 Mit `U` kannst du deinen Status festlegen.
 Mit `M` kannst du die Karte öffnen.
 Mit einem `Rechtsklick` in der Map kannst du einen Chunk claimen.
+
+
+Version: 1.0.3 (Performance Fix)
